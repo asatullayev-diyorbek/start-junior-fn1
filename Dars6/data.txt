@@ -1,0 +1,14 @@
+font-size
+color
+font-familiy
+backgound-color
+
+
+h1 -> Ism familiya
+h2 -> tug'ilgan kun
+p -> o'zingiz haqingizda 3ta gap
+
+
+
+
+
