@@ -61,7 +61,7 @@ body{
     justify-content: center;
 }
 
-.main .item button{
+.buttons{
     width: 400px;
     color: white;
     background-color: rgb(104, 149, 15);

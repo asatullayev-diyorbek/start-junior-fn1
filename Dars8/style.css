@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Teg nomi orqali */
+h1{
+    font-size: 50px;
+    margin: 50px 30px;
+    color: aqua;
+}
+
+/* id orqali */
+#red-text{
+    color: red;
+}
+
+/* class nomi orqali */
+.green-text{
+    color: green;
+}
+
+
+i{
+    padding: 50px;
+    color: red;
+    letter-spacing: 10px;
+}
+
+.matnlar .qalin i{
+    padding: 50px;
+    color: red;
+    font-weight: 900;
+}
