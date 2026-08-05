@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.blok1{
+    width: 90vw;
+    background-color: aqua;
+    margin: 20px 5vw;
+    padding: 25px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.rasm{
+    margin: 0 50px;
+}
+.rasm img{
+    border-radius: 50%`;
+}
